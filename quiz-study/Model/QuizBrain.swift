@@ -22,8 +22,6 @@ struct QuizBrain {
         Question(q: "Где находится Тасмания?", a: ["Индонезия", "Австралия", "Шотландия"], correctAnswer: "Австралия")
     ]
     
-    
-    
     var questionNumber = 0
     var score = 0
     
